@@ -11,6 +11,10 @@ Production-ready Express API powering the RAG chatbot. Provides chat endpoints, 
 - Google Generative AI (Gemini)
 - Helmet, CORS, express-rate-limit
 
+## Project Deployment
+**View Project**
+[view Demo project](https://rag-powered-chatbot-frontend-m5jbzw8kx.vercel.app)
+
 ### Clone the Repository
 
 ```bash
